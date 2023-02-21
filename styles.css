@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+.container{
+    width: 1140px;
+}
+body{
+    font-family: 'Open Sans';
+}
+.leadParagraph{
+    font-family: "Playfair Display";
+}
